@@ -1,0 +1,14 @@
+C:\Users\NgocSon\source\repos\BANKER\BANKER\bin\Debug\netcoreapp3.1\BANKER.exe
+C:\Users\NgocSon\source\repos\BANKER\BANKER\bin\Debug\netcoreapp3.1\BANKER.deps.json
+C:\Users\NgocSon\source\repos\BANKER\BANKER\bin\Debug\netcoreapp3.1\BANKER.runtimeconfig.json
+C:\Users\NgocSon\source\repos\BANKER\BANKER\bin\Debug\netcoreapp3.1\BANKER.runtimeconfig.dev.json
+C:\Users\NgocSon\source\repos\BANKER\BANKER\bin\Debug\netcoreapp3.1\BANKER.dll
+C:\Users\NgocSon\source\repos\BANKER\BANKER\bin\Debug\netcoreapp3.1\BANKER.pdb
+C:\Users\NgocSon\source\repos\BANKER\BANKER\obj\Debug\netcoreapp3.1\BANKER.csproj.AssemblyReference.cache
+C:\Users\NgocSon\source\repos\BANKER\BANKER\obj\Debug\netcoreapp3.1\BANKER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NgocSon\source\repos\BANKER\BANKER\obj\Debug\netcoreapp3.1\BANKER.AssemblyInfoInputs.cache
+C:\Users\NgocSon\source\repos\BANKER\BANKER\obj\Debug\netcoreapp3.1\BANKER.AssemblyInfo.cs
+C:\Users\NgocSon\source\repos\BANKER\BANKER\obj\Debug\netcoreapp3.1\BANKER.csproj.CoreCompileInputs.cache
+C:\Users\NgocSon\source\repos\BANKER\BANKER\obj\Debug\netcoreapp3.1\BANKER.dll
+C:\Users\NgocSon\source\repos\BANKER\BANKER\obj\Debug\netcoreapp3.1\BANKER.pdb
+C:\Users\NgocSon\source\repos\BANKER\BANKER\obj\Debug\netcoreapp3.1\BANKER.genruntimeconfig.cache
